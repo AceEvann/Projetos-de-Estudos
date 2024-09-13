@@ -9,7 +9,7 @@ function pegarGarrafa(dinheiro, custoPorGarrafa) {
     console.log("moverCima");
     console.log("moverDireita");
     console.log("moverDireita");
-    // Console com o pedido
+    // Console com o pedido inicial
     console.log("Compre " + calculoGarrafas(dinheiro, custoPorGarrafa) + " garrafas de leite.");
     console.log("moverEsquerda");
     console.log("moverEsquerda");
@@ -25,13 +25,13 @@ function pegarGarrafa(dinheiro, custoPorGarrafa) {
     return calculoTroco(dinheiro, custoPorGarrafa);
 }
 
-// Função para saber quantas garrafas serão compradas
+// Função para saber quantas garrafas poderão ser compradas
 function calculoGarrafas(dinheiroInicial, custoPorGarrafa) {
 
-    // Faz a divisão do dinheiro inicial pelo custo das garrafas
+    // Variável que faz a divisão
     var numeroDeGarrafas = Math.floor(dinheiroInicial / custoPorGarrafa);
 
-    // Retorna a variável numeroDeGarrafas
+    // Retorna a variável
     return numeroDeGarrafas;
 }
 
@@ -39,10 +39,10 @@ function calculoGarrafas(dinheiroInicial, custoPorGarrafa) {
 // Função para calcular o troco
 function calculoTroco(dinheiroInicial, custoPorGarrafa) {
 
-    // Pega o resto da divisão do dinheiro inicial pelo custo das garrafas
+    // Variável que pega o resto da divisão 
     var troco = dinheiroInicial % custoPorGarrafa;
 
-    // Retorn  variável troco
+    // Retorna a variável
     return troco;
 }
 
