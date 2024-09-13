@@ -1,25 +1,25 @@
 // Função principal
-function pegarGarrafa(dinheiro, custoPorGarrafa) {
-console.log("sairCasa");
-console.log("moverDireita");
-console.log("moverDireita");
-console.log("moverCima");
-console.log("moverCima");
-console.log("moverCima");
-console.log("moverCima");
-console.log("moverDireita");
-console.log("moverDireita");
-// Console com o pedido
-console.log("Compre " + calculoGarrafas(dinheiro, custoPorGarrafa) + " garrafas de leite.");
-console.log("moverEsquerda");
-console.log("moverEsquerda");
-console.log("moverBaixo");
-console.log("moverBaixo");
-console.log("moverBaixo");
-console.log("moverBaixo");
-console.log("moverEsquerda");
-console.log("moverEsquerda");
-console.log("entrarCasa");
+function pegarGarrafa(dinheiro, custoPorGarrafa) {   
+    console.log("sairCasa");
+    console.log("moverDireita");
+    console.log("moverDireita");
+    console.log("moverCima");
+    console.log("moverCima");
+    console.log("moverCima");
+    console.log("moverCima");
+    console.log("moverDireita");
+    console.log("moverDireita");
+    // Console com o pedido
+    console.log("Compre " + calculoGarrafas(dinheiro, custoPorGarrafa) + " garrafas de leite.");
+    console.log("moverEsquerda");
+    console.log("moverEsquerda");
+    console.log("moverBaixo");
+    console.log("moverBaixo");
+    console.log("moverBaixo");
+    console.log("moverBaixo");
+    console.log("moverEsquerda");
+    console.log("moverEsquerda");
+    console.log("entrarCasa");
 
     // Retorna a função calculoTroco
     return calculoTroco(dinheiro, custoPorGarrafa);
