@@ -10,10 +10,10 @@ var maiusculoPrimeiroCar = prieiroCar.toUpperCase();
 var restoNome = nome.slice(1,nome.lenght);
 
 //d Torna o resto do nome em minúsculo
-var lowerCaseRestOfName = restOfName.toLowerCase();
+var minusculoResto = restoNome.toLowerCase();
 
-//e Concatenate the first char with the rest of the name
-var captalizedName = upperCaseFirstChar + lowerCaseRestOfName;
+//e Concatena o primeiro carácter com o resto do nome
+var nomeCapitalizado = maiusculoPrimeiroCar + minusculoResto;
 
-// Hello, {name}.
-alert("Hello, " + captalizedName);
+// Hello, {nome}.
+alert("Olá, " + nomeCapitalizado);
