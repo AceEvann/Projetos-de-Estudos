@@ -3,9 +3,13 @@ function test() {
     var b = "8";
     
 /***********Não altere o código acima 👆*******/
-//Digite seu código nas linhas 7 - 9:
+    // Cria uma variável para guardar o valor de a
     var c = a;
+
+    // Altera o valor de a pelo b
     a = b;
+
+    // Altera o valor de b pelo antigo valor de a
     b = c;
 /***********Não mude o código abaixo 👇*******/
 
