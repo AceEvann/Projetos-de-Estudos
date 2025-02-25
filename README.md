@@ -11,3 +11,4 @@
 ### Linguagens já estudadas:
 
 - *JavaScript - Introdução*
+- *HTML - Introdução*
