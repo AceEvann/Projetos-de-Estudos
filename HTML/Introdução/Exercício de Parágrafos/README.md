@@ -1,3 +1,3 @@
 # Exercício de Parágrafos
 
-### Nesse exercício entendi como utilizar os elementos de parágrafos
+### Nesse exercício entendi como utilizar os elementos de parágrafo
