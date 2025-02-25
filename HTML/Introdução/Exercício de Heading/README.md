@@ -1,3 +1,3 @@
 # Exercício de Heading
 
-### Nesse exercício aprendi a utilizar diferentes cabeçalhos
+### Nesse exercício aprendi a utilizar diferentes elementos de cabeçalho
