@@ -1,3 +1,3 @@
 # Exercício de Heading
 
-### Nesse exercício escrevi simples linhas de texto com diferentes cabeçalhos
+### Nesse exercício aprendi a utilizar diferentes cabeçalhos
