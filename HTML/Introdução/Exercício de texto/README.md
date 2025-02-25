@@ -1,3 +1,3 @@
-# Exercício simples de texto
+# Exercício de heading
 
-### Nesse exercício apémas mexi com simples linhas de texto
+### Nesse exercício apenas escrevi simples linhas de texto com diferentes cabeçalhos
