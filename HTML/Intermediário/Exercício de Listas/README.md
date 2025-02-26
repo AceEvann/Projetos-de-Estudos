@@ -1,3 +1,3 @@
 # Exercício de Listas
 
-### Nesse exercício aprende como utilizar elementos de lista ordenadas e desordenadas.
+### Nesse exercício, aprendi como utilizar elementos de listas ordenadas e desordenadas.
