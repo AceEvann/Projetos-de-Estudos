@@ -1,3 +1,3 @@
-# Exercício de Aninhamento e Identação
+# Exercício de Aninhamento e Indentação
 
-### Neste exercício aprendi melhor sobre aninhamento e identação
+### Neste exercício, aprendi melhor sobre aninhamento e indentação.
