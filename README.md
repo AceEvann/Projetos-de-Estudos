@@ -8,7 +8,7 @@
 - *Intermediário* <br/>
 - *Avançado*
 
-### Conteudos já estudadas:
+### Conteúdos já estudadas:
 
 - *HTML - Introdução*
 - *JavaScript - Introdução*
