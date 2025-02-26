@@ -1,3 +1,3 @@
 # Exercício de Aninhamento e Indentação
 
-### Neste exercício, aprendi melhor sobre aninhamento e indentação.
+### Neste exercício, aprendi mais sobre aninhamento e indentação em HTML.
